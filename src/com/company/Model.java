@@ -17,6 +17,7 @@ public class Model {
     private String set_date;
     private String change_date;
 
+    ///hjygugkjgh
     public void setName(String name) {
         this.name = name;
     }
